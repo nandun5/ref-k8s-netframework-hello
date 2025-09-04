@@ -1,0 +1,11 @@
+C:\Projects\k8s\src\HelloWorld\HelloWorld.Worker\bin\Release\HelloWorld.Worker.exe.config
+C:\Projects\k8s\src\HelloWorld\HelloWorld.Worker\bin\Release\HelloWorld.Worker.exe.manifest
+C:\Projects\k8s\src\HelloWorld\HelloWorld.Worker\bin\Release\HelloWorld.Worker.application
+C:\Projects\k8s\src\HelloWorld\HelloWorld.Worker\bin\Release\HelloWorld.Worker.exe
+C:\Projects\k8s\src\HelloWorld\HelloWorld.Worker\bin\Release\HelloWorld.Worker.pdb
+C:\Projects\k8s\src\HelloWorld\HelloWorld.Worker\obj\Release\HelloWorld.Worker.csproj.AssemblyReference.cache
+C:\Projects\k8s\src\HelloWorld\HelloWorld.Worker\obj\Release\HelloWorld.Worker.csproj.CoreCompileInputs.cache
+C:\Projects\k8s\src\HelloWorld\HelloWorld.Worker\obj\Release\HelloWorld.Worker.exe.manifest
+C:\Projects\k8s\src\HelloWorld\HelloWorld.Worker\obj\Release\HelloWorld.Worker.application
+C:\Projects\k8s\src\HelloWorld\HelloWorld.Worker\obj\Release\HelloWorld.Worker.exe
+C:\Projects\k8s\src\HelloWorld\HelloWorld.Worker\obj\Release\HelloWorld.Worker.pdb
